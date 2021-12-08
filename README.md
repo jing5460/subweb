@@ -19,6 +19,10 @@ http://www.youlr.tk
 
 https://sub-wb.vercel.app/
 
+https://sub-i.vercel.app/
+
+https://subok.vercel.app/
+
 该仓库供主题制作者使用
 
 ### 本地更改+在线部署教程在 [这里](https://github.com/lhl77/subweb-tsutsu/wiki)  （方便快捷）
