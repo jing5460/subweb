@@ -264,7 +264,7 @@ export default {
           "sub.id9.cc (品云提供)": "https://sub.id9.cc/sub?",
         },
         backendOptions: [
-          { value: "https://api.tsutsu.cc/sub?" },
+          { value: "https://api.youlr.tk/sub?" },
           { value: "https://api2.tsutsu.cc/sub?" },
           { value: "https://api.v1.mk/sub?" },
           { value: "https://subcon.dlj.tf/sub?" },
@@ -275,7 +275,7 @@ export default {
         ],
         remoteConfig: [
           {
-            label: "つつ自用,投稿请tg找 @Ox208",
+            label: "つつ自用,投稿请tg找 @jing5460",
             options: [
               {
                 label: "つつ自用-完整分组",
