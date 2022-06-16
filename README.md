@@ -15,7 +15,7 @@
 ### 在线转换：
 https://sub.tsutsu.cc 
 
-http://www.youlr.tk 
+http://sub.youlr.tk 
 
 https://sub-wb.vercel.app/
 
